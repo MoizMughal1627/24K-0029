@@ -8,5 +8,5 @@
 - SUKUNA
 - MADARA
 - ZENITSU
-  ![Image Of Aizen](https://github.com/MoizMughal1627/24K-0029/blob/main/images%20(1).jpeg)
+(https://github.com/MoizMughal1627/24K-0029/blob/main/images%20(1).jpeg)
   

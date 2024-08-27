@@ -1,0 +1,17 @@
+Ask user to enter numb1
+Ask user to enter numb2
+Ask user to enter operator
+if operator is (+) then 
+   display”numb1+numb2”
+else
+if operator is (-) then 
+   display”numb1-numb2”
+else
+if operator is (x) then 
+   display”numb1*numb2”
+else
+if operator is (/) then 
+   display”numb1/numb2”
+Else 
+if operator is (%) then 
+   display”numb1%numb2”

@@ -1,0 +1,36 @@
+Ask user to enter number
+If number=1 then 
+   display”january” 
+ELSE
+If number=2 then 
+   display”februray”
+ELSE
+If number=3 then 
+   display”march”
+ELSE
+If number=4 then 
+   display”april”
+ELSE
+If number=5 then 
+   display”may”
+ELSE
+If number=6 then 
+   display”june”
+ELSE
+If number=7 then 
+   display”july”
+ELSE
+If number=8 then 
+   display”august”
+ELSE
+If number=9 then 
+   display”september”
+ELSE
+If number=10 then 
+   display”october”
+ELSE
+If number=11 then 
+   display”november”
+ELSE
+If number=12 then 
+   display”december”

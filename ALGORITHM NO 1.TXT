@@ -1,0 +1,11 @@
+Ask user to enter N number
+Ask user to enter n number
+Set result=N divided by n
+If result gives remainder zero then 
+   display ”divisible”
+Else
+display ”not divisible” 
+If n divided 2 give remainder zero then 
+  display “EVEN”
+Else
+Print “ODD”
